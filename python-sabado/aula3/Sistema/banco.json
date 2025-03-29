@@ -1,0 +1,19 @@
+{
+    "clientes": [
+        {
+            "nome": "victor",
+            "email": "victor.senai@senai.edu.br",
+            "idade": 20
+        }
+    ],
+    "produtos": [
+        {
+            "nome": "Produto Teste",
+            "preco": 1500.0
+        },
+        {
+            "nome": "Iphone 16 Pro Max",
+            "preco": 18000.0
+        }
+    ]
+}
